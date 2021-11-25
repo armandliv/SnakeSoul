@@ -1,2 +1,2 @@
 # SnakeSoul
-An AI that thinks and feels like a snake
+SnakeSoul is an AI that thinks and feels like a snake
