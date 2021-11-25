@@ -10,7 +10,7 @@ SnakeSoul always achieves the maximum length of the snake and performs up to 96%
 
 - Pygame
 
-These libraries can be installed on Windows, Ubuntu and macOS via pip:
+This library can be installed on Windows, Ubuntu and macOS via pip:
 
 ```
 pip install pygame
