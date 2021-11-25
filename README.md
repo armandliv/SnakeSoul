@@ -28,7 +28,7 @@ python snake_ai.py
 
 ### Choose your preferred experience
 
-SnakeSoul provides a menu that enables the user to choose the way he wants to play the game of snake.
+SnakeSoul provides a starting menu that enables the user to choose the way he wants to play the game of snake.
 
 ![ss10](https://user-images.githubusercontent.com/94863778/143383001-13f69080-9f10-4bfc-88a9-9a5ae64a9571.png)
 
@@ -50,9 +50,9 @@ A delightful design of the game of snake.
 
 ![sss](https://user-images.githubusercontent.com/94863778/143386380-19406d8d-dc00-4254-a8f2-b21fd89903a4.png)
 
-### Custom outros
+### Customized outros
 
-Based on the game mode and on the outcome of the game, SnakeSoul will provide a customized menu.
+Based on the game mode and on the outcome of the game, SnakeSoul will provide a customized final menu.
 
 ![ss14](https://user-images.githubusercontent.com/94863778/143387222-c569f0f6-bebd-4f93-aaf0-7015e9e7d498.png)
 
