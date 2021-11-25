@@ -84,9 +84,9 @@ I made some statistics and measurements regarding the improvement of AI, and all
 
 I determined the time it took 2 different algorithm's to win the game on maximum speed and same difficulty:
 
-SnakeSoul (my final version of the AI):     7 seconds
+My final version of the AI ->   7 seconds
 
-SnakeSoul (average versions of my AI):     225 seconds
+Average versions of my AI  -> 225 seconds
 
 
 This demonstrates that SnakeSoul's final version of the AI performs 96.88% faster than other algorithms.
